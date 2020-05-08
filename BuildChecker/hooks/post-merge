@@ -3,3 +3,4 @@
 # Just call post-checkout since it does the same thing.
 gitroot=`git rev-parse --show-toplevel`
 bash "$gitroot/.git/hooks/post-checkout"
+Block wold 15 60
